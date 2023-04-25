@@ -1,16 +1,19 @@
-# madexp3
+# Exp3_ProfilePageApp_Stateful
 
-A new Flutter project.
+## Experiment 03 of MAD_PWA Lab
 
-## Getting Started
+This Application covers :
 
-This project is a starting point for a Flutter application.
+<div align = center>
 
-A few resources to get you started if this is your first Flutter project:
+`Stateful Widget`  `Bottom Navigation Bar`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ `Floating Action Button` `onPressed`  `Items`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>
+
+<div align = center>
+
+![Screenshot 2023-04-25 205530](https://user-images.githubusercontent.com/67758985/234332231-b880859c-6a40-4005-910c-08bf91dbc66a.png)
+
+</div>
